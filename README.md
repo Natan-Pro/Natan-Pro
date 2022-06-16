@@ -1,17 +1,19 @@
-## Olá me chamo Natan Lima, carioca morando no Ceará e recomeçando a vida na área de programação e tecnologia!👨‍💻
+# Olá Mundo....
 
-**Interesse em Java!**
+**Prazer me chamo Natan!**
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="natan-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+**Carioca de nascença morando no Ceará!**
+
+**Começando na vida de garoto da Ti!**
+
+___
+#
 
 
 <div align="center">
   <a href="https://github.com/natanlimadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanlimadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanlimadev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-  ##
+![programmer](https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif)
