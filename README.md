@@ -5,10 +5,7 @@
 **Carioca de nascença morando no Ceará!**
 
 **Começando na vida de garoto da Ti!**
-
-___
 #
-
 
 <div align="center">
   <a href="https://github.com/natanlimadev">
