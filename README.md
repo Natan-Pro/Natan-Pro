@@ -4,7 +4,7 @@
 
 **Carioca de nascença morando no Ceará!**
 
-**Começando na vida de garoto da Ti!**
+**Mundando de Rumo! Rumo a Programação!**
 #
 
 <div align="center">
