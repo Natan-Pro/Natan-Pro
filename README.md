@@ -2,9 +2,9 @@
 
 **Prazer me chamo Natan!**
 
-**Carioca de nascença morando no Ceará!**
+**Carioca morando no Ceará!**
 
-**Mudando de Rumo! Rumo a Programação!**
+**Eterno Estudante, em transição de Logística para Desenvolvedor!**
 #
 
 <div align="center">
