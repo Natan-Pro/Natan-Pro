@@ -2,7 +2,7 @@
 
 **Prazer me chamo Natan Lima!**
 
-**Eterno Estudante, atualmente em transição Carrera para  Desenvolvedor FullStack Java!**
+**Eterno Estudante, atualmente em transição carreira para  Desenvolvedor FullStack Java!**
 #
 
  
