@@ -1,10 +1,8 @@
 # Olá Mundo....
 
-**Prazer me chamo Natan!**
+**Prazer me chamo Natan Lima!**
 
-**Carioca morando no Ceará!**
-
-**Eterno Estudante, em transição de Logística para Desenvolvedor!**
+**Eterno Estudante, atualmente em transição Carrera para  Desenvolvedor FullStack Java!**
 #
 
  
