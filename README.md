@@ -45,7 +45,7 @@
  <a href="https://www.linkedin.com/in/natan-guilherme-rocha-lima-099a461a7/" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank">
  <a href="https://api.WhatsApp.com/send?phone=5585994140561" target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white target="_blank">
  <a href="mailto:natan2011@gmail.com" target="_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
-<a href="https://www.github.com/natanlimadev" target="_blank"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+ <a href="https://www.github.com/natanlimadev" target="_blank"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the -badge&logo=github&logoColor=white">
  </div> 
  
  
