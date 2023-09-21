@@ -4,7 +4,7 @@
 
 **Atualmente em transição carreira para me tornar Desenvolvedor!**
 
-*Atualmente focando em Backend!*
+**Atualmente focando em Backend!**
 
 <div align="center">
   <a href="https://github.com/natanlimadev">
