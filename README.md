@@ -4,7 +4,7 @@
 
 **Atualmente em transição carreira para me tornar Desenvolvedor!**
 
-**Atualmente focando em Backend!**
+🎓 I study Software Development with a Focus on Back-End | @ Cubos Academy.
 
 <div align="center">
   <a href="https://github.com/natanlimadev">
