@@ -3,6 +3,7 @@
 **Prazer me chamo Natan Lima!**
 
 **Atualmente em transição carreira para me tornar Desenvolvedor!**
+**Estou focando meus estudos em Backend**
 
 <div align="center">
   <a href="https://github.com/natanlimadev">
