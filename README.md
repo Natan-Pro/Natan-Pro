@@ -2,13 +2,19 @@
 
 **Prazer me chamo Natan Lima!**<img align="right" alt="programer" height="180em" style="border-radius:50px;" src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif">
 
-**Atualmente em transição carreira para me tornar Desenvolvedor!**
+**Eterno aprendiz em transição carreira para me tornar Desenvolvedor BackEnd!**
 
 🎓 I study Software Development with a Focus on Back-End | @ Cubos Academy.
 
 <br>
 
-## Tecnologias
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -18,24 +24,12 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### Eu estou estudando... 🧩
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-### GitHub Stats ⚡
 <div>
 <a href="https://github.com/natanlimadev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanlimadev&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanlimadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- 
- ## Contatos
+
 
  ### Entre em contato comigo! 📭
 <div>
