@@ -2,7 +2,9 @@
 
 **Prazer me chamo Natan Lima!**<img align="right" alt="programer" height="180em" style="border-radius:50px;" src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif">
 
-**Eterno aprendiz em transição carreira para me tornar Desenvolvedor BackEnd!**
+**Eterno aprendiz**
+**Desenvolvedor BackEnd**
+**Sempre aprendendo 1% mais todos os dias**
 
 🎓 I study Software Development with a Focus on Back-End | @ Cubos Academy.
 
