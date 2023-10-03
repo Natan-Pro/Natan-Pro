@@ -3,13 +3,8 @@
 **Prazer me chamo Natan Lima!**
 
 **Atualmente em transição carreira para me tornar Desenvolvedor!**
-
-🎓 I study Software Development with a Focus on Back-End | @ Cubos Academy.
-
-<div align="center">
-  <a href="https://github.com/natanlimadev">
 <img align="right" alt="programer" height="180em" style="border-radius:50px;" src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif">
-</div>
+🎓 I study Software Development with a Focus on Back-End | @ Cubos Academy.
 
 <br>
 
