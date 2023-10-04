@@ -32,6 +32,4 @@
 <a href="https://www.linkedin.com/in/natanlimadesenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://api.WhatsApp.com/send?phone=5521993029125" target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white target="_blank"/>
 <a href="mailto:natanlimadevrj@gmail.com" target="_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
-
- ![Snake animation](https://github.com/natanlimadev/natanlimadev/blob/output/github-contribution-grid-snake.svg)
 </div>
